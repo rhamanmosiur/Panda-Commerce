@@ -1,2 +1,2 @@
-# HTML-quick-start-pack
+# Panda-Commerce
 # Panda-Commerce
